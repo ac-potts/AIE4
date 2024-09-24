@@ -1,0 +1,7 @@
+numpy
+chainlit==0.7.700
+openai
+langchain_community
+langchain_experimental
+langchain_openai
+pypdf

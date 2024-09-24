@@ -1,0 +1,11 @@
+numpy
+chainlit==0.7.700
+openai
+langchain-community
+langchain-openai
+pypdf
+tiktoken 
+langchainhub 
+langchain 
+langgraph 
+langchain-text-splitters
