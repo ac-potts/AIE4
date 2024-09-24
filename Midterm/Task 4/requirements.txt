@@ -1,0 +1,9 @@
+numpy
+chainlit==0.7.700
+langchain-core==0.2.40 
+langchain-openai==0.1.25 
+langchain-huggingface==0.0.3
+pypdf
+sentence_transformers
+langchain_text_splitters
+langchain-community
